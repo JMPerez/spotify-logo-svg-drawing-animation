@@ -1,0 +1,26 @@
+body{
+  width: 100%;
+  background: #337BC5;
+  height: 100%;
+}
+h1{
+  font-family: Gotham, Helvetica, san-serif;
+  color: #fff;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin: 2em 0;
+}
+div{
+  width: 90%;
+  margin: 0 auto;
+}
+svg{
+  width: 460px;
+  height: 460px;
+}
+path{ 
+  
+-webkit-transition: stroke-dashoffset 2s ease-in-out; 
+  transition: stroke-dashoffset 2s ease-in-out;
+}
